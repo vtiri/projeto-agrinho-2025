@@ -1,4 +1,4 @@
 # projeto-agrinho-2025
-# School Project Website
+# projeto programação
 
 Este é um site para o meu projeto escolar.
